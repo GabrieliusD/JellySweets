@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564dceb9302ff384bbf8f84fd29904f1, type: 3}
+  m_Name: Marshmallow
+  m_EditorClassIdentifier: 
+  Name: Marsh
+  icon: {fileID: 21300000, guid: bd6c26b77e2650048b11a46cb2089ebe, type: 3}
+  Level: 1
+  Health: 60
+  Purchased: 1
+  Equiped: 0
+  Cost: 3000
+  currentXP: 0
+  xpNeeded: 0
+  strength: 10
+  speed: 10
+  intelligence: 10
+  vitality: 10
