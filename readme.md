@@ -1,5 +1,5 @@
 ## Jelly Sweets
-### A mobile game developed for a Interactive Multimedia Games Developmetn Module
+### A mobile game developed for a Interactive Multimedia Games Development Module
 
 #### Game Images
 
